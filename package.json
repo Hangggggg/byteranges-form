@@ -1,0 +1,20 @@
+{
+  "name": "byteranges-form",
+  "version": "0.1.0",
+  "description": "Create a form of 'Content-Type: multipart/byteranges'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hangggggg/byteranges-form.git"
+  },
+  "keywords": ["multipart/byteranges"],
+  "author": "Hang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hangggggg/byteranges-form/issues"
+  },
+  "homepage": "https://github.com/Hangggggg/byteranges-form#readme"
+}
